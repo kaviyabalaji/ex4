@@ -25,8 +25,8 @@ Step 7: Save and run the application.
 ~~~
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: V R ANU AYSHWARYA
-Registeration Number : 212221040016
+Developed by: R.K Pragalyaa shree
+Registeration Number : 212221040125
 */
 ~~~
 
